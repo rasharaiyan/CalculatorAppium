@@ -1,19 +1,27 @@
-Calculator App Test Automation
+# Calculator App Test Automation
 
-Overview
+## Overview
+This project demonstrates automated spot checks on the Calculator app using Selenium WebDriver and Appium Inspector. The aim is to ensure the app functions correctly across different devices.
 
-This project demonstrates how to perform spot checks on the Calculator app using Selenium WebDriver for automation and Appium Inspector for inspecting mobile app elements. The project is set up to run tests on both Android and iOS platforms, ensuring that the Calculator app functions correctly across different devices.
+## Prerequisites
+- Java Development Kit (JDK)
+- Android Studio or Xcode
+- Node.js and npm
+- Appium Server and Appium Inspector
+- Selenium WebDriver
 
-Prerequisites
+## Setup Instructions
 
-Before running the tests, ensure you have the following installed:
+### Install Appium
+```bash
+npm install -g appium
 
-Java Development Kit (JDK)
-Android Studio (for Android tests) or Xcode (for iOS tests)
-Node.js and npm
-Appium Server and Appium Inspector
-Selenium WebDriver
-Additionally, you will need:
+### Start Appium Server
 
-An Android or iOS device or emulator/simulator set up for testing.
-The Calculator app installed on the device or emulator/simulator.
+## Running Tests
+Execute the test script from your IDE or via the command line to run your tests.
+
+## Troubleshooting
+For any issues, ensure all setups are correct and dependencies are properly installed
+
+Ensure all prerequisites are installed and properly configured before proceeding.
