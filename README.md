@@ -15,8 +15,8 @@ This project demonstrates automated spot checks on the Calculator app using Sele
 ### Install Appium
 ```bash
 npm install -g appium
-
-### Start Appium Server
+### 
+## Start Appium Server
 
 ## Running Tests
 Execute the test script from your IDE or via the command line to run your tests.
